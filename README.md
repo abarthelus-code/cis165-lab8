@@ -32,3 +32,6 @@ Why does the triangle calculation use 0.5 rather than integer division 1 / 2?
   
 Where do you check negative dimensions, and how do you handle zero and choice 4?
 - The code checks if any of the numbers are negative before the calculations, and will give an error if there is a negative. 0 is allowed and choice 4 just ends the program.
+
+
+To run in onlineGDB open the file on the site check to see if its on c++ 17 then input a number 1-4 and values asked to run the code.
